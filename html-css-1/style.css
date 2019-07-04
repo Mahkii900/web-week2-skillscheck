@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+}
+
+.company-bar {
+    height: 40px;
+    padding: 15px;
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-content {
+    height: 85vh;
+    width: 100%;
+}
+
+.footer {
+    height: 100px;
+    width: 100%;
+    background-color: navy;
+}
+
+.more-you-know {
+    height: 40%;
+    border: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.white-space {
+    height: 52%;
+    padding: 25px;
+}
+
+.top-row {
+    height: 35%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.middle-row {
+    height: 35%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-row {
+    height: 35%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.company-name {
+    justify-self: flex-start;
+    font-size: 30px;
+}
+
+.navigation {
+    display: flex;
+    list-style: none;
+    justify-self: space-between;
+    align-self: center;
+}
+
+.green-box {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border-radius: 25%;
+}
+
+.orange-box {
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+}
+
+.img-box img {
+    
+}
